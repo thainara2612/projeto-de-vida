@@ -1,8 +1,8 @@
 :root{
-    --cor-de-fundo:#f51269ad;
-    --rosa:#f339ac;
+    --cor-de-fundo:#b60046ad;
+    --rosa:#ff009d;
     --branco:#ffffff;
-    --botao-ativo:#c7456cb4;
+    --botao-ativo:#7a0025b4;
     --botao-inativo:rgba(168, 61, 111, 0.226);
     --texto-fundo:rgba(168, 61, 111, 0.226);
 }
