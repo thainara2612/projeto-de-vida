@@ -1,8 +1,8 @@
 :root{
-    --cor-de-fundo:#b60046ad;
-    --rosa:#ff009d;
+    --cor-de-fundo:#a10340d8;
+    --magenta:#5e003a;
     --branco:#ffffff;
-    --botao-ativo:#7a0025b4;
+    --botao-ativo:#7a0025bd;
     --botao-inativo:rgba(168, 61, 111, 0.226);
     --texto-fundo:rgba(168, 61, 111, 0.226);
 }
@@ -59,7 +59,13 @@ body{
         border-radius: 0 40px 0 0;
     }
 }
-
+.botao{
+    display: block;
+}
+.ativo{
+    background-color:var(--botao-ativo);
+    border-bottom: 4px solid var(--magenta);
+}
 
 
 
